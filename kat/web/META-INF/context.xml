@@ -1,0 +1,5 @@
+<Context path="/kat" docBase="/kat" debug="5" reloadable="true" crossContext="true">
+  <Logger directory="logs" prefix="localhost_CTTS" suffix="log" timestamp="true" /> 
+  <Resource name="jdbc/TestDB" auth="Container" type="javax.sql.DataSource" maxActive="100" maxIdle="30" maxWait="10000" username="Kat" password="1111" driverClassName="com.mysql.jdbc.Driver" removeAbandoned="true" url="jdbc:mysql://localhost:3306/csc_ctts"/> 
+  </Context>
+
