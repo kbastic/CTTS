@@ -38,26 +38,52 @@ The CTTR software has distributed systems architecture. It can run on any system
 
 Login page
 
+![01-kean university - ctts - login](https://user-images.githubusercontent.com/30803397/30335768-35f4dbfe-97b1-11e7-8da6-4c62bf722f3f.jpg)
+
 Client Functions - Main Page
+
+![02-welcome _ kbastic](https://user-images.githubusercontent.com/30803397/30335776-39d1fc3e-97b1-11e7-8533-c6bdd33b810a.jpg)
 
 Client - Create New Service Request Page
 
+![03-create service request](https://user-images.githubusercontent.com/30803397/30335781-3d2f94b8-97b1-11e7-8627-b97acd431c7d.jpg)
+
 Client - My Service Requests Page
+
+![04-view my service requests](https://user-images.githubusercontent.com/30803397/30335791-40708592-97b1-11e7-87e3-b17c4d391218.jpg)
 
 Tech Functions – Main Page
 
+![05-welcome _ eordanis](https://user-images.githubusercontent.com/30803397/30335799-44c8663c-97b1-11e7-9b80-ce065c372698.jpg)
+
 Tech - Create New Service Request Page
+
+![06-create service request tech](https://user-images.githubusercontent.com/30803397/30335810-4c120a7e-97b1-11e7-82d3-71ae9cd2a9e1.jpg)
 
 Tech - My Service Requests Page
 
+![07-my service requests](https://user-images.githubusercontent.com/30803397/30335815-4f877eaa-97b1-11e7-9832-68edf39f700c.jpg)
+
 Tech - Service Request Details and Enter New Work Page
+
+![08-my servide requests details](https://user-images.githubusercontent.com/30803397/30335818-528f59e2-97b1-11e7-82ea-89c4352ed815.jpg)
 
 Tech – Escalated Service Request Details and History Page
 
+![09-view new service requests details](https://user-images.githubusercontent.com/30803397/30335826-556596d6-97b1-11e7-9423-af22474d61fc.jpg)
+
 Tech – Escalated and New Service Requests Page
+
+![10-view new service requests](https://user-images.githubusercontent.com/30803397/30335829-584026e6-97b1-11e7-952d-3ef0874026b1.jpg)
 
 Tech – Reports
 
+
 Tech – Unresolved Service Request Repot
+
+
+
+
+
 
 
