@@ -78,8 +78,11 @@ Tech – Escalated and New Service Requests Page
 
 Tech – Reports
 
+![11-reports](https://user-images.githubusercontent.com/30803397/30335832-5b482a00-97b1-11e7-88b9-9bd1e8da1b15.jpg)
 
 Tech – Unresolved Service Request Repot
+
+![12-unresolved service requests report](https://user-images.githubusercontent.com/30803397/30335840-5ebbfc3e-97b1-11e7-91fa-c0ec17d9431b.jpg)
 
 
 
