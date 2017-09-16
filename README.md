@@ -4,6 +4,8 @@ Client Technology Tracking System (CTTS) is a tech support application
 ## Current Implementation
 This was a two students team project for Distributed Systems class at Kean University, NJ.
 
+Stephanie Eordanidis (https://github.com/eordanis) and I worked on this project together.
+
 Client Technology Tracking System (CTTS) is an online tech support program for Coastline Systems Consulting, a fictional company that provides packaged IT solutions for their clients
 .
 CTTS website allows clients to log in and request a service from Coastline technicians.
